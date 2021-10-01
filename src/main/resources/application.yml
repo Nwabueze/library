@@ -1,0 +1,7 @@
+
+port: 27017
+dbname: BlogDb
+pring:
+  data:
+    mongodb:
+      auto-index-creation: true
